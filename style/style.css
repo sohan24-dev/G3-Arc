@@ -160,7 +160,7 @@ main>section {
     font-weight: 700;
 }
 .featured-architect img {
-    /* width: 100%; */
+    width: 100%;
 }
 /* some facts related style  */
 .facts-container {
@@ -193,13 +193,13 @@ main>section {
     margin-top: 10px;
 }
 
-.fact-description {
+/* .fact-description {
     min-width: 540px;
-}
+} */
 
 /* sponsor related style  */
 .sponsor-info {
-    min-width: 540px;
+    /* min-width: 540px; */
     margin: 50px auto;
     /* text-align: center; */
 }
